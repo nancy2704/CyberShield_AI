@@ -132,18 +132,18 @@ A **sample CSV** can be downloaded directly from the *Analyze Traffic* page.
 
 ---
 ## 🖥️ Usage
-1. **Launch the CyberShield AI application.
-2. **Upload a network traffic CSV file with the required columns.
-3. **Click the analysis option if prompted.
-4. **View the traffic classification results, including Normal and Suspicious predictions.
-5. **Explore the dashboard charts, summary metrics and alerts.
-6. **Download the analyzed results as a CSV file.
+1. **Launch the CyberShield AI application.**
+2. **Upload a network traffic CSV file with the required columns.**
+3. **Click the analysis option if prompted.**
+4. **View the traffic classification results, including Normal and Suspicious predictions.**
+5. **Explore the dashboard charts, summary metrics and alerts.**
+6. **Download the analyzed results as a CSV file.**
 
 ---
 ##🔮 Future Improvements
-1. **Integration with authorized live network traffic monitoring.
-2. ** Support for additional threat categories.
-3. **Improved model training using representative real-world datasets.
-4. **Enhanced security alerts and reporting.
+1. **Integration with authorized live network traffic monitoring.**
+2. ** Support for additional threat categories.**
+3. **Improved model training using representative real-world datasets.**
+4. **Enhanced security alerts and reporting.**
 ---
 

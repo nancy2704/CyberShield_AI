@@ -1,6 +1,5 @@
 # 🛡️ CyberShield AI — AI-Based Threat Detection System
-
-> **IBM Internship Project** | Built with Python, Scikit-learn, Pandas, Streamlit and Plotly
+**CyberShield AI aims to support cybersecurity monitoring by analyzing network traffic data and identifying potentially suspicious activities using machine learning. It provides a simple dashboard to visualize results and help users understand possible network threats.
 
 ---
 
@@ -132,13 +131,19 @@ A **sample CSV** can be downloaded directly from the *Analyze Traffic* page.
 5. **Dashboard** (`app.py`) — Streamlit renders charts, metrics and allows CSV upload for inference using the saved model artefacts.
 
 ---
+## 🖥️ Usage
+1. **Launch the CyberShield AI application.
+2. **Upload a network traffic CSV file with the required columns.
+3. **Click the analysis option if prompted.
+4. **View the traffic classification results, including Normal and Suspicious predictions.
+5. **Explore the dashboard charts, summary metrics and alerts.
+6. **Download the analyzed results as a CSV file.
 
-## Limitations
-
-- Trained entirely on **synthetic data** — real-world traffic patterns may differ significantly.
-- High accuracy reflects the model learning the synthetic data distribution, not real threat intelligence.
-- No real-time packet capture or network interface integration.
-- Not suitable for production deployment without retraining on validated, real-world data.
-
+---
+##🔮 Future Improvements
+1. **Integration with authorized live network traffic monitoring.
+2. ** Support for additional threat categories.
+3. **Improved model training using representative real-world datasets.
+4. **Enhanced security alerts and reporting.
 ---
 
